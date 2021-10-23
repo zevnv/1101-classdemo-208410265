@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.line4 img {
+  width: 35%;
+  height: 35%;
+  margin: 10;
+  margin-top: 10px;
+  position: relative;
+  left: 15%;
+  border: 3px solid;
+}
+
+body {
+  background-color: black;
+}
+.MY {
+  font-size: 100px;
+  text-align: center;
+  font-family: cursive;
+}
+.word h1 {
+  margin: 1%;
+  padding: 10%;
+  font-family: monospace;
+  color: rgb(116, 81, 172);
+}
